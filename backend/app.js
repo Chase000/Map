@@ -9,7 +9,7 @@ import path from 'path'
 
 const app = express()
 const port = 8080
-const url = 'mongodb+srv://Chase:Mdm190500@cluster0.ce8uh.mongodb.net/?retryWrites=true&w=majority'
+// const url = 'mongodb+srv://Chase:Mdm190500@cluster0.ce8uh.mongodb.net/?retryWrites=true&w=majority'
 app.use(cors())
 app.use(express.json())
 // const __dirname = dirname(dirname(fileURLToPath(import.meta.url)))
