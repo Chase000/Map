@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "cd backend && npm start"
+  },
+  "engines": { "node" : "14.16.0" }
+}
